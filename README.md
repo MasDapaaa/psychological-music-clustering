@@ -36,7 +36,7 @@ Each color represents a different cluster formed by the K-Means algorithm.
 
 ## 🧪 Libraries Used
 
-- Python 3.x
+- Python 3.10.11
 - `pandas`
 - `matplotlib`
 - `scikit-learn`
@@ -49,4 +49,4 @@ Make sure you have Python and required libraries installed.
 To install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas matplotlib scikit-learn
